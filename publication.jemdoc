@@ -3,8 +3,10 @@
 Publication is also in [https://scholar.google.com/citations?hl=en&user=PsHPG68AAAAJ Google Scholar]
 
 === Journal papers
+. P. Abdisarabshali, Z. Wang, W. Mou, N. Mastronarde, *R Zhang*, S. Hosseinalipour, "Fine-Tuning Federated Foundation Models over Resource-Constrained Wireless Networks: A Generalization–Personalization Balancing Perspective", submitted.
+. Z. Wang, J. Liu, J. Ren, T. Chou, S. Tsai, *R Zhang*, "Uncertainty-Aware Point-Cloud Beamforming and Rank-Aware Scheduling for Dynamic Digital-Twin Maintenance in Near-Field ISAC", submitted.
+. J. Liu, Z. Wang, S. Tsai, *R Zhang*, "Adaptive Payload-Aided Near-Field Beam Tracking via Thompson Sampling", submitted.
 . Z. Wang, Maria. A, Y. Hu, *R Zhang*, "Compressive Beam-Pattern-Aware Near-field Beam Training via Total Variation Denoising", Accepted by IEEE Wireless Communication Letters, 2026.
-. J. Liu, Z. Wang, *R Zhang*, "Efficient, Adaptive Near-Field Beam Training based on Linear Bandit", submitted.
 . Z. Wang, S. Tsai, Y. Hu, *R Zhang*, "GP Bandit-Assisted Two-Stage Sparse Phase Retrieval for Amplitude-Only Near-Field Beam Training", submitted.
 . *R. Zhang*, W. Mou, "Federated learning over physical channels: adaptive algorithms with near-optimal guarantees", submitted. 
 . Z. Wang, S. Tsai, R. Kiran, *R Zhang*, "Precise Near-Field Beam Training with DFT Codebook based on Amplitude-only Measurement", IEEE Transactions on Wireless Communications, 2026.
@@ -30,8 +32,9 @@ Publication is also in [https://scholar.google.com/citations?hl=en&user=PsHPG68A
 . Q Deng, L Liu, *R Zhang*, X Li, J Michel, and Z Zhou, "Athermal and flat-topped silicon Mach-Zehnder filters," Optics Express, 29577-29582, 2016. 
 
 === Conference papers 
-. J. Liu, Z. Wang, *R Zhang*, "Efficient Near-Field Beam Tracking via Thompson Sampling", submitted.
-. J Yao, W Saad, X Mu, *R Zhang*, X Bao, M Chen, "Heterogeneous Timescale Optimization of Beamforming and Antenna Positions for FAS-enabled Secure Communication", submitted.
+. J. Liu, Z. Wang, *R Zhang*, "Efficient, Adaptive Near-Field Beam Training based on Posterior Sampling", IEEE Military Communications Conference (MILCOM) Workshop 2026.
+. J. Liu, Z. Wang, *R Zhang*, "Efficient Near-Field Beam Tracking via Thompson Sampling", IEEE Asilomar Conference on Signals, Systems, and Computers 2026.
+. J Yao, W Saad, X Mu, *R Zhang*, X Bao, M Chen, "Heterogeneous Timescale Optimization of Beamforming and Antenna Positions for FAS-enabled Secure Communication", IEEE 27th International Workshop on Signal Processing and Artificial Intelligence for Wireless Communications (SPAWC) 2026.
 . J Wang, *R Zhang*, Y Hu, "Pruned Causal Inference Enabled Active Deception for Covert Internet of Things (IoT)," IEEE International Conference on Communication (ICC), 2026.
 . J Yao, Y Mao, X Mu, *R Zhang*, Z Yang, M Chen, "Capacity Maximization for MA-Enhanced MIMO Systems: A Low Complexity Approach," IEEE International Conference on Communications Workshops (ICC Workshops), 2026.
 . Z. Wang, R. Kiran, J. Nair, C.H. Chen, T.H. Chou, S. Tsai, *R. Zhang*,"Sparsity-Aware Near-Field Beam Training via Multi-Beam Combination", IEEE Global Communications Conference (GLOBECOM) 2025.
